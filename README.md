@@ -1,2 +1,3 @@
-# data-analysis
-Repository for studying data analysis and related areas
+# analise-de-dados
+Repositório para estudo de análise de dados e áreas relacionadas
+
